@@ -21,7 +21,14 @@ python3 main.py
 ## Future Scope
 
 Search passwords by website
+
 Update existing passwords
+
 Delete passwords
+
 Encrypt stored passwords
+
 GUI using Tkinter
+
+## Note
+This project stores passwords in plain text for learning purposes only. It is not intended for production use.
