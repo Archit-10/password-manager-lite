@@ -31,4 +31,5 @@ Encrypt stored passwords
 GUI using Tkinter
 
 ## Note
-This project stores passwords in plain text for learning purposes only. It is not intended for production use.
+
+Passwords are encrypted using symmetric encryption (Fernet). However, this project is for educational purposes only and does not implement full production-grade security practices such as secure key management, authentication layers, database encryptions.

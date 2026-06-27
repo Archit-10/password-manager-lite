@@ -1,3 +1,6 @@
 password_memo.txt
+secret.key
+generate_key.py
+venv/
 __pycache__/
 *.pyc
